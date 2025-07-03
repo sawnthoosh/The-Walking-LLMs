@@ -12,7 +12,7 @@ This paper proposes a modular, protocol-driven framework for integrating Large L
 We introduce the Model Context Protocol (MCP) — a communication interface allowing LLMs to coordinate modular robotic components (legs, arms, vision, etc.) through high-level natural language reasoning. This bridges cognition and physicality in AI.
 
 ## Full Paper
-[Download PDF](https://raw.githubusercontent.com/YOUR_USERNAME/walking-llms/main/Final_The_Walking_LLMs.pdf)
+[Download PDF](https://github.com/sawnthoosh/The-Walking-LLMs/blob/4db672ce641cabfcce53c1fac8b76f131394ce5e/Final%20The%20Walking%20LLMs.pdf)
 
 ## Key Concepts
 - Embodied Artificial Intelligence  
